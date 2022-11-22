@@ -279,4 +279,4 @@ if __name__ == '__main__':
     # Cargar los ficheros y crear el excel
 
     compra_semanal_ingredientes, pizzas = cargar_ficheros()
-    automatizar_excel(compra_semanal_ingredientes, pizzas, 'compra_semanal_ingredientes.xlsx')
+    automatizar_excel(compra_semanal_ingredientes, pizzas, 'Pizza_Reports.xlsx')
