@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Ingredientes_semanales>Cantidad estimada de cada ingrediente que se deberá comprar semanalmente en Pizzas Maven 2016
+  <Ingrediente>
+    <Número>0</Número>
+    <Ingrediente Nombre="Barbecued Chicken" />
+    <Cantidad Unidades="83" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>1</Número>
+    <Ingrediente Nombre="Red Peppers" />
+    <Cantidad Unidades="580" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>2</Número>
+    <Ingrediente Nombre="Green Peppers" />
+    <Cantidad Unidades="177" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>3</Número>
+    <Ingrediente Nombre="Tomatoes" />
+    <Cantidad Unidades="975" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>4</Número>
+    <Ingrediente Nombre="Red Onions" />
+    <Cantidad Unidades="704" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>5</Número>
+    <Ingrediente Nombre="Barbecue Sauce" />
+    <Cantidad Unidades="83" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>6</Número>
+    <Ingrediente Nombre="Chicken" />
+    <Cantidad Unidades="309" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>7</Número>
+    <Ingrediente Nombre="Artichoke" />
+    <Cantidad Unidades="78" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>8</Número>
+    <Ingrediente Nombre="Spinach" />
+    <Cantidad Unidades="335" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>9</Número>
+    <Ingrediente Nombre="Garlic" />
+    <Cantidad Unidades="1025" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>10</Número>
+    <Ingrediente Nombre="Jalapeno Peppers" />
+    <Cantidad Unidades="209" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>11</Número>
+    <Ingrediente Nombre="Fontina Cheese" />
+    <Cantidad Unidades="114" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>12</Número>
+    <Ingrediente Nombre="Gouda Cheese" />
+    <Cantidad Unidades="78" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>13</Número>
+    <Ingrediente Nombre="Mushrooms" />
+    <Cantidad Unidades="311" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>14</Número>
+    <Ingrediente Nombre="Asiago Cheese" />
+    <Cantidad Unidades="120" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>15</Número>
+    <Ingrediente Nombre="Alfredo Sauce" />
+    <Cantidad Unidades="33" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>16</Número>
+    <Ingrediente Nombre="Pesto Sauce" />
+    <Cantidad Unidades="98" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>17</Número>
+    <Ingrediente Nombre="Corn" />
+    <Cantidad Unidades="131" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>18</Número>
+    <Ingrediente Nombre="Cilantro" />
+    <Cantidad Unidades="131" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>19</Número>
+    <Ingrediente Nombre="Chipotle Sauce" />
+    <Cantidad Unidades="131" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>20</Número>
+    <Ingrediente Nombre="Pineapple" />
+    <Cantidad Unidades="165" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>21</Número>
+    <Ingrediente Nombre="Thai Sweet Chilli Sauce" />
+    <Cantidad Unidades="90" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>22</Número>
+    <Ingrediente Nombre="Bacon" />
+    <Cantidad Unidades="108" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>23</Número>
+    <Ingrediente Nombre="Pepperoni" />
+    <Cantidad Unidades="315" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>24</Número>
+    <Ingrediente Nombre="Italian Sausage" />
+    <Cantidad Unidades="35" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>25</Número>
+    <Ingrediente Nombre="Chorizo Sausage" />
+    <Cantidad Unidades="35" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>26</Número>
+    <Ingrediente Nombre="Sliced Ham" />
+    <Cantidad Unidades="75" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>27</Número>
+    <Ingrediente Nombre="Mozzarella Cheese" />
+    <Cantidad Unidades="384" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>28</Número>
+    <Ingrediente Nombre="Capocollo" />
+    <Cantidad Unidades="254" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>29</Número>
+    <Ingrediente Nombre="Goat Cheese" />
+    <Cantidad Unidades="130" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>30</Número>
+    <Ingrediente Nombre="Oregano" />
+    <Cantidad Unidades="55" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>31</Número>
+    <Ingrediente Nombre="Anchovies" />
+    <Cantidad Unidades="49" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>32</Número>
+    <Ingrediente Nombre="Green Olives" />
+    <Cantidad Unidades="204" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>33</Número>
+    <Ingrediente Nombre="Kalamata Olives" />
+    <Cantidad Unidades="133" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>34</Número>
+    <Ingrediente Nombre="Feta Cheese" />
+    <Cantidad Unidades="176" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>35</Número>
+    <Ingrediente Nombre="Beef Chuck Roast" />
+    <Cantidad Unidades="68" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>36</Número>
+    <Ingrediente Nombre="Brie Carre Cheese" />
+    <Cantidad Unidades="8" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>37</Número>
+    <Ingrediente Nombre="Prosciutto" />
+    <Cantidad Unidades="8" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>38</Número>
+    <Ingrediente Nombre="Caramelized Onions" />
+    <Cantidad Unidades="8" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>39</Número>
+    <Ingrediente Nombre="Pears" />
+    <Cantidad Unidades="8" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>40</Número>
+    <Ingrediente Nombre="Thyme" />
+    <Cantidad Unidades="8" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>41</Número>
+    <Ingrediente Nombre="Nduja Salami" />
+    <Cantidad Unidades="35" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>42</Número>
+    <Ingrediente Nombre="Pancetta" />
+    <Cantidad Unidades="35" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>43</Número>
+    <Ingrediente Nombre="Friggitello Peppers" />
+    <Cantidad Unidades="35" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>44</Número>
+    <Ingrediente Nombre="Calabrese Salami" />
+    <Cantidad Unidades="69" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>45</Número>
+    <Ingrediente Nombre="Genoa Salami" />
+    <Cantidad Unidades="55" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>46</Número>
+    <Ingrediente Nombre="Prosciutto di San Daniele" />
+    <Cantidad Unidades="48" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>47</Número>
+    <Ingrediente Nombre="Arugula" />
+    <Cantidad Unidades="48" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>48</Número>
+    <Ingrediente Nombre="Coarse Sicilian Salami" />
+    <Cantidad Unidades="60" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>49</Número>
+    <Ingrediente Nombre="Luganega Sausage" />
+    <Cantidad Unidades="60" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>50</Número>
+    <Ingrediente Nombre="Onions" />
+    <Cantidad Unidades="60" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>51</Número>
+    <Ingrediente Nombre="Soppressata Salami" />
+    <Cantidad Unidades="36" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>52</Número>
+    <Ingrediente Nombre="Artichokes" />
+    <Cantidad Unidades="202" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>53</Número>
+    <Ingrediente Nombre="Peperoncini verdi" />
+    <Cantidad Unidades="75" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>54</Número>
+    <Ingrediente Nombre="Provolone Cheese" />
+    <Cantidad Unidades="69" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>55</Número>
+    <Ingrediente Nombre="Smoked Gouda Cheese" />
+    <Cantidad Unidades="69" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>56</Número>
+    <Ingrediente Nombre="Romano Cheese" />
+    <Cantidad Unidades="69" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>57</Número>
+    <Ingrediente Nombre="Blue Cheese" />
+    <Cantidad Unidades="69" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>58</Número>
+    <Ingrediente Nombre="Ricotta Cheese" />
+    <Cantidad Unidades="81" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>59</Número>
+    <Ingrediente Nombre="Gorgonzola Piccante Cheese" />
+    <Cantidad Unidades="81" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>60</Número>
+    <Ingrediente Nombre="Parmigiano Reggiano Cheese" />
+    <Cantidad Unidades="81" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>61</Número>
+    <Ingrediente Nombre="Eggplant" />
+    <Cantidad Unidades="30" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>62</Número>
+    <Ingrediente Nombre="Zucchini" />
+    <Cantidad Unidades="79" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>63</Número>
+    <Ingrediente Nombre="Sun-dried Tomatoes" />
+    <Cantidad Unidades="65" />
+  </Ingrediente>
+  <Ingrediente>
+    <Número>64</Número>
+    <Ingrediente Nombre="Plum Tomatoes" />
+    <Cantidad Unidades="33" />
+  </Ingrediente>
+</Ingredientes_semanales>

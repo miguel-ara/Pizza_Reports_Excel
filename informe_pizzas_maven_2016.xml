@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Informe>Análisis de los NaNs, Nulls y la tipología de cada uno de los ficheros empleados en el proceso
+  <fichero nombre_fichero="order_details.csv">
+    <NaN Número_de_NaNs_totales="10399" />
+    <Null Número_de_Nulls_totales="10399" />
+    <columna nombre_columna="order_details_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="int64" />
+    </columna>
+    <columna nombre_columna="order_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="int64" />
+    </columna>
+    <columna nombre_columna="pizza_id">
+      <NaN Número_de_NaNs_columna="5673" />
+      <Null Número_de_Nulls_columna="5673" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="quantity">
+      <NaN Número_de_NaNs_columna="4726" />
+      <Null Número_de_Nulls_columna="4726" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+  </fichero>
+  <fichero nombre_fichero="pizzas.csv">
+    <NaN Número_de_NaNs_totales="0" />
+    <Null Número_de_Nulls_totales="0" />
+    <columna nombre_columna="pizza_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="pizza_type_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="size">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="price">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="float64" />
+    </columna>
+  </fichero>
+  <fichero nombre_fichero="pizza_types.csv">
+    <NaN Número_de_NaNs_totales="0" />
+    <Null Número_de_Nulls_totales="0" />
+    <columna nombre_columna="pizza_type_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="name">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="category">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="ingredients">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+  </fichero>
+  <fichero nombre_fichero="orders.csv">
+    <NaN Número_de_NaNs_totales="4391" />
+    <Null Número_de_Nulls_totales="4391" />
+    <columna nombre_columna="order_id">
+      <NaN Número_de_NaNs_columna="0" />
+      <Null Número_de_Nulls_columna="0" />
+      <Tipología Tipología_columna="int64" />
+    </columna>
+    <columna nombre_columna="date">
+      <NaN Número_de_NaNs_columna="2353" />
+      <Null Número_de_Nulls_columna="2353" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+    <columna nombre_columna="time">
+      <NaN Número_de_NaNs_columna="2038" />
+      <Null Número_de_Nulls_columna="2038" />
+      <Tipología Tipología_columna="object" />
+    </columna>
+  </fichero>
+</Informe>
